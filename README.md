@@ -6,7 +6,7 @@
 
 ### Hi there, I'm Nathan Foerster - aka [Gillariel][website] 🖐️
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
+[![Website](https://img.shields.io/website?label=Gillariel.com&style=for-the-badge&url=https%3A%2F%2Fgillariel.com)][website]
 
 ## I'm an open-minded developer, musician & gamer !
 - 🌱 I’m interested in almost everything, I like to test new things!
