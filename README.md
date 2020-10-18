@@ -10,8 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-github-readme.gillariel.vercel.app/api/spotify-playing" alt="Gillariel Spotify Playing" width="350" />](https://open.spotify.com/user/gillariel)
-
+[<img src="https://spotify-github-readme.gillariel.vercel.app/api/spotify" alt="Gillariel Spotify Playing" width="350" />](https://open.spotify.com/user/gillariel)
 
 
 ### Connect with me:
@@ -104,6 +103,7 @@
 
 ### More about me
 
+  - [Spotify profile](https://open.spotify.com/user/gillariel)
   - [Steam Profile](https://steamcommunity.com/id/Gillariel)
   - [TVTime profile](https://www.tvtime.com/en/user/41128990/profile)
   - [(Coming soon) My musical project](https://gillariel.com/music)
