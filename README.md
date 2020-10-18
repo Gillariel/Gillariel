@@ -35,10 +35,14 @@
 <img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/ongodb.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+
+[![Top Langs](https://github-readme-stats.gillariel.vercel.app/api/top-langs/?username=Gillariel&layout=compact)](https://github.com/gillariel)
+
 
 <br />
 <br />
@@ -73,9 +77,14 @@
 
 <details>
   <summary>📊 GitHub Stats</summary>
-  <img align="left" alt="Gillariel GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Gillariel&show_icons=true&hide_border=true&theme=dracula" />
-
+  <img align="left" alt="Gillariel GitHub Stats" src="https://github-readme-stats.gillariel.vercel.app/api?username=Gillariel&show_icons=true&hide_border=true&theme=dracula" />
 </details>
+
+<details>
+  <summary>My main repo (enter in my domain 🏰)</summary>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gillariel&repo=Lily&theme=dracula)](https://github.com/Gillariel/Lily)
+</details>
+
 
 [website]: https://gillariel.com
 [linkedin]: https://www.linkedin.com/in/nathan-foerster
