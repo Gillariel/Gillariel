@@ -77,14 +77,14 @@
   <!--END_SECTION:activity-->
 </details>
 
-<br />
+---
 
 <details>
   <summary>📊 GitHub Stats</summary>
   <img align="left" alt="Gillariel GitHub Stats" src="https://github-readme-stats.gillariel.vercel.app/api?username=Gillariel&show_icons=true&hide_border=true&theme=dracula" />
 </details>
 
-<br />
+---
 
 <details>
   <summary>My main repo (enter in my domain 🏰)</summary>
