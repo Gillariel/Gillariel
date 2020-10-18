@@ -110,8 +110,8 @@
 
 ### More about me
 
-  - [Spotify profile](https://open.spotify.com/user/gillariel) <img alt="Spotify" width="22px" src="https://simpleicons.org/icons/spotify.svg" style="filter: invert(84%) sepia(9%) saturate(7483%) hue-rotate(77deg) brightness(89%) contrast(88%);" />
-  - [Steam Profile](https://steamcommunity.com/id/Gillariel) <img alt="Steam" width="22px" src="https://simpleicons.org/icons/steam.svg" style="filter: invert(100%) sepia(4%) saturate(0%) hue-rotate(260deg) brightness(105%) contrast(105%);" />
+  - [Spotify profile](https://open.spotify.com/user/gillariel) <img alt="Spotify" width="22px" src="https://www.iconfinder.com/data/icons/popular-services-brands/512/spotify-512.png" />
+  - [Steam Profile](https://steamcommunity.com/id/Gillariel) <img alt="Steam" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/600px-Steam_icon_logo.svg.png" />
   - [TVTime profile](https://www.tvtime.com/en/user/41128990/profile) <img alt="FL Studio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/TVShow_Time_logo.png/280px-TVShow_Time_logo.png" />
   - [(Coming soon) My musical project](https://gillariel.com/music) 🎹
 
