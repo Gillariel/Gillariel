@@ -1,3 +1,9 @@
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+        img { cursor: default; }
+      </style>"
+)
+
 ### Hi there, I'm Nathan Foerster - aka [Gillariel][website] 🖐️
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
