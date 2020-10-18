@@ -5,7 +5,7 @@
 ## I'm an open-minded developer, musician & gamer !
 - 🌱 I’m interested in almost everything, I like to test new things!
 - 🥅 Next Goals: Continue my personal project [Lily](https://github.com/Gillariel/Lily) and working a bit more with UE4 to make something with it.
-- 🎸 Music: I play guitar / bass, a bit of piano and work sometimes with FL Studio <img align="left" alt="FL Studio" width="32px" src="https://www.thedawstudio.com/wp-content/uploads/2016/08/FL-Studio-Icon-600x800-560x420.png" />
+- 🎸 Music: I play guitar / bass, a bit of piano and work sometimes with FL Studio <img alt="FL Studio" width="32px" src="https://www.thedawstudio.com/wp-content/uploads/2016/08/FL-Studio-Icon-600x800-560x420.png" />
 
 
 ### Spotify Playing 🎧
