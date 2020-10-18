@@ -1,9 +1,3 @@
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
-        img { cursor: default; }
-      </style>"
-)
-
 ### Hi there, I'm Nathan Foerster - aka [Gillariel][website] 🖐️
 
 [![Website](https://img.shields.io/website?label=Gillariel.com&style=for-the-badge&url=https%3A%2F%2Fgillariel.com)][website]
@@ -73,6 +67,7 @@
 ➡️ (Coming soon)[more blog posts...](https://gillariel.com/blogs)
 
 ---
+
 ### 📈 Recent GitHub Activity
 <details>
   <summary>Show/hide activities</summary>
@@ -87,6 +82,7 @@
 </details>
 
 ---
+
 ### 📊 GitHub Stats
 <details>
   <summary>Show/hide Stats</summary>
@@ -94,6 +90,7 @@
 </details>
 
 ---
+
 ### My main repo (enter in my domain 🏰)
 <details>
   <summary>Show/hide repos</summary>
@@ -103,6 +100,13 @@
 
 </details>
 
+---
+
+### More about me
+
+  - [Steam Profile](https://steamcommunity.com/id/Gillariel)
+  - [TVTime profile](https://www.tvtime.com/en/user/41128990/profile)
+  - [(Coming soon) My musical project](https://gillariel.com/music)
 
 [website]: https://gillariel.com
 [linkedin]: https://www.linkedin.com/in/nathan-foerster
