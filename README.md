@@ -73,9 +73,9 @@
 ➡️ (Coming soon)[more blog posts...](https://gillariel.com/blogs)
 
 ---
-###
+### 📈 Recent GitHub Activity
 <details>
-  <summary>📈 Recent GitHub Activity</summary>
+  <summary>Show/hide activities</summary>
   <!--START_SECTION:activity-->
 
 1. ❗️ Opened issue [#1](https://github.com/Gillariel/html-generator/issues/1) in [Gillariel/html-generator](https://github.com/Gillariel/html-generator)
@@ -87,16 +87,16 @@
 </details>
 
 ---
-###
+### 📊 GitHub Stats
 <details>
-  <summary>📊 GitHub Stats</summary>
+  <summary>Show/hide Stats</summary>
   <img align="left" alt="Gillariel GitHub Stats" src="https://github-readme-stats.gillariel.vercel.app/api?username=Gillariel&show_icons=true&hide_border=true&theme=dracula" />
 </details>
 
 ---
-###
+### My main repo (enter in my domain 🏰)
 <details>
-  <summary>My main repo (enter in my domain 🏰)</summary>
+  <summary>Show/hide repos</summary>
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gillariel&repo=Lily&theme=dracula)](https://github.com/Gillariel/Lily)
 
