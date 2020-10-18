@@ -41,9 +41,8 @@
   <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
   <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
-<div>
-  [![Top Langs](https://github-readme-stats.gillariel.vercel.app/api/top-langs/?username=Gillariel&layout=compact)](https://github.com/gillariel/github-readme-stats)
-</div>
+
+[![Top Langs](https://github-readme-stats.gillariel.vercel.app/api/top-langs/?username=Gillariel&layout=compact)](https://github.com/gillariel/github-readme-stats)
 
 <br />
 <br />
@@ -70,10 +69,8 @@
 
 <details>
   <summary>📈 Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
 </details>
 
 <details>
@@ -83,7 +80,9 @@
 
 <details>
   <summary>My main repo (enter in my domain 🏰)</summary>
+
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gillariel&repo=Lily&theme=dracula)](https://github.com/Gillariel/Lily)
+  
 </details>
 
 
