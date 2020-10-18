@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-gillariel.vercel.app/api/spotify-playing" alt="Gillariel Spotify Playing" width="350" />](https://open.spotify.com/user/gillariel?si=uPGBmr_RSgusgLZEb8DGRg)
+[<img src="https://spotify-github-readme.gillariel.vercel.app/api/spotify-playing" alt="Gillariel Spotify Playing" width="350" />](https://open.spotify.com/user/gillariel)
 
 
 
@@ -110,3 +110,4 @@
 
 [website]: https://gillariel.com
 [linkedin]: https://www.linkedin.com/in/nathan-foerster
+
