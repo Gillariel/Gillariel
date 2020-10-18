@@ -73,7 +73,7 @@
 ➡️ (Coming soon)[more blog posts...](https://gillariel.com/blogs)
 
 ---
-
+###
 <details>
   <summary>📈 Recent GitHub Activity</summary>
   <!--START_SECTION:activity-->
@@ -87,14 +87,14 @@
 </details>
 
 ---
-
+###
 <details>
   <summary>📊 GitHub Stats</summary>
   <img align="left" alt="Gillariel GitHub Stats" src="https://github-readme-stats.gillariel.vercel.app/api?username=Gillariel&show_icons=true&hide_border=true&theme=dracula" />
 </details>
 
 ---
-
+###
 <details>
   <summary>My main repo (enter in my domain 🏰)</summary>
 
