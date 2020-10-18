@@ -88,20 +88,12 @@
 
 ---
 ### 📊 GitHub Stats
-<details>
-  <summary>Show/hide Stats</summary>
-  <img align="left" alt="Gillariel GitHub Stats" src="https://github-readme-stats.gillariel.vercel.app/api?username=Gillariel&show_icons=true&hide_border=true&theme=dracula" />
-</details>
+<img align="left" alt="Gillariel GitHub Stats" src="https://github-readme-stats.gillariel.vercel.app/api?username=Gillariel&show_icons=true&hide_border=true&theme=dracula" />
 
 ---
 ### My main repo (enter in my domain 🏰)
-<details>
-  <summary>Show/hide repos</summary>
-
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gillariel&repo=Lily&theme=dracula)](https://github.com/Gillariel/Lily)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gillariel&repo=Lily&theme=dracula)](https://github.com/Gillariel/Lily)
-
-</details>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gillariel&repo=Lily&theme=dracula)](https://github.com/Gillariel/Lily)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gillariel&repo=html-generator&theme=dracula)](https://github.com/Gillariel/html-generator)
 
 
 [website]: https://gillariel.com
