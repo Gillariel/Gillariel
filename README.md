@@ -96,7 +96,13 @@
   <summary>Show/hide repos</summary>
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gillariel&repo=Lily&theme=dracula)](https://github.com/Gillariel/Lily)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gillariel&repo=ElectronHero&theme=dracula)](https://github.com/Gillariel/ElectronHero)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gillariel&repo=memes-library&theme=dracula)](https://github.com/Gillariel/memes-library)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gillariel&repo=html-generator&theme=dracula)](https://github.com/Gillariel/html-generator)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gillariel&repo=-Unity-DeepLearningCar&theme=dracula)](https://github.com/Gillariel/-Unity-DeepLearningCar)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gillariel&repo=My-Portfolio&theme=dracula)](https://github.com/Gillariel/My-Portfolio)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gillariel&repo=CronosLab&theme=dracula)](https://github.com/Gillariel/CronosLab)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gillariel&repo=Natagora&theme=dracula)](https://github.com/Gillariel/Natagora)
 
 </details>
 
