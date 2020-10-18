@@ -70,6 +70,10 @@
 <details>
   <summary>📈 Recent GitHub Activity</summary>
   <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/Gillariel/html-generator/issues/1) in [Gillariel/html-generator](https://github.com/Gillariel/html-generator)
+2. ❗️ Closed issue [#880](https://github.com/DeepLabCut/DeepLabCut/issues/880) in [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut)
+3. 🗣 Commented on [#880](https://github.com/DeepLabCut/DeepLabCut/issues/880) in [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut)
+4. ❗️ Opened issue [#880](https://github.com/DeepLabCut/DeepLabCut/issues/880) in [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut)
   <!--END_SECTION:activity-->
 </details>
 
