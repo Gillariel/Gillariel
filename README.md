@@ -44,7 +44,7 @@
 
 ### Languages stats:
 
-[![Top Langs](https://github-readme-stats.gillariel.vercel.app/api/top-langs/?username=Gillariel&layout=compact)](https://github.com/gillariel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.gillariel.vercel.app/api/top-langs/?username=Gillariel&layout=compact&theme=dracula)](https://github.com/gillariel/github-readme-stats)
 
 <br />
 
