@@ -116,9 +116,9 @@
 ---
 
 ### More about me
-
+  - [Pluralsight profile](https://app.pluralsight.com/profile/Gillariel) <img alt="Pluralsight" width="22px" src="https://images-eu.ssl-images-amazon.com/images/I/51-Hci2bYjL.png" />
   - [Spotify profile](https://open.spotify.com/user/gillariel) <img alt="Spotify" width="22px" src="https://www.iconfinder.com/data/icons/popular-services-brands/512/spotify-512.png" />
-  - [Steam Profile](https://steamcommunity.com/id/Gillariel) <img alt="Steam" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/600px-Steam_icon_logo.svg.png" />
+  - [Steam profile](https://steamcommunity.com/id/Gillariel) <img alt="Steam" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/600px-Steam_icon_logo.svg.png" />
   - [TVTime profile](https://www.tvtime.com/en/user/41128990/profile) <img alt="FL Studio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/TVShow_Time_logo.png/280px-TVShow_Time_logo.png" />
   - [(Coming soon) My musical project](https://gillariel.com/music) 🎹
 
