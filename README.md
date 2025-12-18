@@ -4,7 +4,7 @@
 
 ## I'm an open-minded developer, musician & gamer !
 - 🌱 I’m interested in almost everything, I like to test new things!
-- 🥅 Next Goals: Continue my personal project [Lily](https://github.com/Gillariel/Lily) and working a bit more with UE4 to make something with it.
+- 🥅 Next Goals: Continue my personal project [Lily](https://github.com/Gillariel/Lily) and working a bit more with UE5 to make something with it.
 - 🎸 Music: I play guitar / bass, a bit of piano and work sometimes with FL Studio <img alt="FL Studio" width="32px" src="https://www.thedawstudio.com/wp-content/uploads/2016/08/FL-Studio-Icon-600x800-560x420.png" />
 
 
@@ -117,10 +117,9 @@
 
 ### More about me
   - [Pluralsight profile](https://app.pluralsight.com/profile/Gillariel) <img alt="Pluralsight" width="22px" src="https://images-eu.ssl-images-amazon.com/images/I/51-Hci2bYjL.png" />
-  - [Spotify profile](https://open.spotify.com/user/gillariel) <img alt="Spotify" width="22px" src="https://www.iconfinder.com/data/icons/popular-services-brands/512/spotify-512.png" />
+  - [Spotify profile](https://open.spotify.com/user/gillariel) <img alt="Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1982px-Spotify_icon.svg.png" />
   - [Steam profile](https://steamcommunity.com/id/Gillariel) <img alt="Steam" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/600px-Steam_icon_logo.svg.png" />
   - [TVTime profile](https://www.tvtime.com/en/user/41128990/profile) <img alt="FL Studio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/TVShow_Time_logo.png/280px-TVShow_Time_logo.png" />
-  - [(Coming soon) My musical project](https://gillariel.com/music) 🎹
 
 [website]: https://gillariel.com
 [linkedin]: https://www.linkedin.com/in/nathan-foerster
